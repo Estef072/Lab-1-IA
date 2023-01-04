@@ -1,6 +1,4 @@
-#Archivo que contiene las clases Write y Read
-#Que permiten escribir y leer un archivo BMP
-#Implementacion general vista en graficas
+
 
 from wr_functions import *
 

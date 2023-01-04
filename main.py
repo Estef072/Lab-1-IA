@@ -1,7 +1,3 @@
-#Laboratorio 1 Inteligencia Artificial CC3085
-#Gabriel Vicente 20498
-#Oscar Lopez 20679
-#Pedro Arriola 20188
 
 from animated_solution import *
 from graph_search import *
